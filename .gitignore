@@ -1,7 +1,5 @@
-title_imdb.csv
-ratings_imbdb.csv
-'../data/title_imdb.csv'
-'../data/ratings_imdb.csv'
-
-/data/ratings_imdb.csv
-/data/title_imdb.csv
+../data/imdb_rating.csv
+'../data/imdb_rating.csv'
+imdb_rating.csv
+/data/
+'../data'
